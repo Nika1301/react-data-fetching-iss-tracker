@@ -10,7 +10,7 @@ You will need to fetch on interval and refetch on click of a button.
 
 ### Fetching on load
 
-- Comment out all unnecessary code:
+- Comented out
 
   - the `coords` state,
   - the `getISSCoords` function,
